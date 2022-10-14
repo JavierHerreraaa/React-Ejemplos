@@ -1,2 +1,2 @@
 # React-Ejemplos
-Ejemplos básicos de React
+Simplemente son ejemplos básicos de React.
